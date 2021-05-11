@@ -10,3 +10,5 @@ which u commited
 git checkout -f-If in multpile files changes are made and u want to get the previous commit data
 u just need to write the above command to get back the data in all of you files.
 This is used when you want to get back the previous commit data in all your files
+
+git log-This command gives you the details of your last commit
