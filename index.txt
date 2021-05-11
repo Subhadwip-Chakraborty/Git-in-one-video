@@ -12,3 +12,8 @@ u just need to write the above command to get back the data in all of you files.
 This is used when you want to get back the previous commit data in all your files
 
 git log-This command gives you the details of your last commit
+
+
+git rm (file name)=It will delete your file entirely from the both the staging area and from the project
+
+git rm --cached-To move a particular file from the staging area
