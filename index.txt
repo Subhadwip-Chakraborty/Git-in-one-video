@@ -1,0 +1,2 @@
+git init-Initializes my code
+git add-it pushes my code to the staging area in this case(git add index.html)
